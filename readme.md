@@ -1,0 +1,1 @@
+Practicing the basics of some JavaScript Arrays and Strings manipulations.
